@@ -1,3 +1,3 @@
 # webasic
 
-Basic web using Flask and SqlAlchemy using CRUD operations
+Basic web using Flask and SqlAlchemy for CRUD operations
